@@ -1,4 +1,4 @@
-# Bukalapak-API-Fetcher
+# Bukalapak API Fetcher
 This app will help you to extract json data from Bukalapak API to editable data.
 
 # How to use?
